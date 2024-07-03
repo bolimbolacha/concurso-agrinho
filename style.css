@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{font-family: 'Poppins', sans-serif;}
+header {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0; 
+}
+.imagem-cabecalho{
+    width: 12%;
+}
