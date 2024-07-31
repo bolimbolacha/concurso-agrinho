@@ -15,6 +15,11 @@ header {
 .imagem-cabecalho{
     width: 35%;
 }
+.cabecalho-lista-pagina{
+    justify-content: center;
+    text-align: center;
+
+}
 .cabecalho-lista-item{
     background-color: black;
     padding: 1em;
@@ -31,12 +36,15 @@ header {
 .todas-noticias{
     text-align: justify;
     background-color: rgb(199, 199, 199);
+    
 }
 .texto{
 padding: 24px;
 width: 28px;
 }
 
-.noticia2{
+.noticia1{
 width: 38%;
+padding: 50px, 50px, 50px 50px;
+margin: 50px, 50px, 50px 50px;
 }
